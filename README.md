@@ -1,2 +1,1 @@
 # AuthentFirebaseReactJS
-Created with CodeSandbox
